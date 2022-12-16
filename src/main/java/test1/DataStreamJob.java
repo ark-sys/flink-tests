@@ -21,7 +21,6 @@ package test1;
 import org.apache.flink.api.java.utils.ParameterTool;
 import org.apache.flink.streaming.api.TimeCharacteristic;
 import org.apache.flink.streaming.api.datastream.DataStream;
-import org.apache.flink.streaming.api.datastream.SingleOutputStreamOperator;
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.streaming.connectors.kafka.FlinkKafkaProducer;
 import org.apache.kafka.clients.producer.ProducerConfig;
@@ -55,7 +54,7 @@ public class DataStreamJob {
 
 		ParameterTool params = ParameterTool.fromArgs(args);
 		//final int servingSpeedFactor  = params.has("speed") ? params.getInt("speed") : 60;
-		final String BROKER  = params.has("broker") ? params.get("broker") : "172.19.0.5:9092";
+		final String BROKER  = params.has("broker") ? params.get("broker") : "kafka:9092";
 		final String pathToRides = params.has("path") ? params.get("path") :"/Rides-2days.gz";
 
 		Properties Properties = new Properties();

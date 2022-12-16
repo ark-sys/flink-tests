@@ -4,11 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="551c0d17-c4a0-405b-b51a-6b9fab5546f6" name="Changes" comment="" />
+    <list default="true" id="551c0d17-c4a0-405b-b51a-6b9fab5546f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/job-ctl.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_5_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_icu_icu4j_67_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_clients_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_base_1_14_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_connector_kafka_2_11_1_14_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_core_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_file_sink_common_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_java_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_optimizer_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_rpc_akka_loader_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_rpc_core_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_runtime_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_9_9_2_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_force_shading_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_30_1_1_jre_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_12_4_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_70_Final_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_shaded_zookeeper_3_3_5_9_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_api_java_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_flink_flink_table_common_1_16_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_3_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_8_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/remote-targets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/test1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test1/DataStreamJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test1/DataStreamJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test1/RandomStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test1/RandomStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/DataStreamJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test1/DataStreamJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/RandomStream$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/RandomStream$IngestionTimeWatermarkStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test1/RandomStream$IngestionTimeWatermarkStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/RandomStream$MyKeySelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test1/RandomStream$MyKeySelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/RandomStream$MyMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test1/RandomStream$MyMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/RandomStream$RandomSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test1/RandomStream$RandomSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test1/RandomStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test1/RandomStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/ConnectedCarEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/ConnectedCarEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/GeoUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/GeoUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/MBoxParser$MBoxMailFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/MBoxParser$MBoxMailFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/MBoxParser$MBoxMailParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/MBoxParser$MBoxMailParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/TaxiFare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/TaxiFare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/TaxiFareSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/TaxiFareSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/TaxiRide.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/TaxiRide.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/TaxiRideSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/TaxiRideSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/TravelTimePredictionModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/TravelTimePredictionModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-test1-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-test1-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test1-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/test1-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +102,12 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="kubernetes-admin@kubernetes" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,6 +119,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2HUQYZ49XjKJ5oGeRBZgkzreBxc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,43 +132,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/ark/development/playground/test1/target/test1-0.1.jar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/karsalan/Cours/Projet-TLC&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Runtime.Targets.Configurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;bigdataide_conn_settings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RandomStream">
-    <configuration name="DataStreamJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test1.DataStreamJob" />
-      <module name="test1" />
-      <option name="PROGRAM_PARAMETERS" value="-path /home/ark/development/playground/Rides-2days.gz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1.RandomStream" />
-      <module name="test1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Shell Script.Upload job">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,28 +152,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="../deployment.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+    <configuration name="Upload job" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/job-ctl.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean package" />
+      </method>
+    </configuration>
+    <configuration name="../playground-deployment.yaml: Compose Deployment (1)" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
-          <option name="sourceFilePath" value="../../deployment.yaml" />
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="../playground-deployment.yaml" />
         </settings>
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="../deployment.yaml.broker: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+    <configuration name="../playground-deployment.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
-          <option name="services">
-            <list>
-              <option value="broker" />
-            </list>
-          </option>
-          <option name="sourceFilePath" value="../../deployment.yaml" />
+          <option name="sourceFilePath" value="../playground-deployment.yaml" />
         </settings>
       </deployment>
       <method v="2" />
     </configuration>
-    <configuration name="../deployment.yaml.taskmanager: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+    <configuration name="../playground-deployment.yaml.taskmanager: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
           <option name="services">
@@ -114,25 +194,56 @@
               <option value="taskmanager" />
             </list>
           </option>
-          <option name="sourceFilePath" value="../../deployment.yaml" />
+          <option name="sourceFilePath" value="../playground-deployment.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="../playground-deployment.yaml.wireshark: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="wireshark" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="../playground-deployment.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="flink-playground" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="composeProjectName" value="mytest1" />
+          <option name="envFilePath" value="" />
+          <option name="services">
+            <list>
+              <option value="jobmanager" />
+              <option value="taskmanager" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="../playground-deployment.yaml" />
+          <option name="upRemoveOrphans" value="true" />
         </settings>
       </deployment>
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.RandomStream" />
-      <item itemvalue="Application.DataStreamJob" />
-      <item itemvalue="Docker.../deployment.yaml.taskmanager: Compose Deployment" />
-      <item itemvalue="Docker.../deployment.yaml: Compose Deployment" />
-      <item itemvalue="Docker.../deployment.yaml.broker: Compose Deployment" />
+      <item itemvalue="Docker.../playground-deployment.yaml: Compose Deployment (1)" />
+      <item itemvalue="Docker.flink-playground" />
+      <item itemvalue="Docker.../playground-deployment.yaml.taskmanager: Compose Deployment" />
+      <item itemvalue="Docker.../playground-deployment.yaml.wireshark: Compose Deployment" />
+      <item itemvalue="Docker.../playground-deployment.yaml: Compose Deployment" />
+      <item itemvalue="Shell Script.Upload job" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomStream" />
-        <item itemvalue="Docker.../deployment.yaml: Compose Deployment" />
-        <item itemvalue="Application.DataStreamJob" />
-        <item itemvalue="Docker.../deployment.yaml.taskmanager: Compose Deployment" />
-        <item itemvalue="Docker.../deployment.yaml.broker: Compose Deployment" />
+        <item itemvalue="Docker.flink-playground" />
+        <item itemvalue="Docker.../playground-deployment.yaml.wireshark: Compose Deployment" />
+        <item itemvalue="Docker.../playground-deployment.yaml.taskmanager: Compose Deployment" />
+        <item itemvalue="Docker.../playground-deployment.yaml: Compose Deployment" />
+        <item itemvalue="Docker.../playground-deployment.yaml: Compose Deployment (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -152,11 +263,40 @@
       <workItem from="1668341631745" duration="147000" />
       <workItem from="1668341788437" duration="9702000" />
       <workItem from="1668443599637" duration="3706000" />
+      <workItem from="1668498715335" duration="212000" />
+      <workItem from="1668498929618" duration="2364000" />
+      <workItem from="1668515686415" duration="11267000" />
+      <workItem from="1668689981500" duration="2239000" />
+      <workItem from="1668695250462" duration="3324000" />
+      <workItem from="1669034055501" duration="7238000" />
+      <workItem from="1669122055259" duration="3196000" />
+      <workItem from="1669366781476" duration="3723000" />
+      <workItem from="1669372400782" duration="7695000" />
+      <workItem from="1669630585715" duration="12803000" />
+      <workItem from="1670229926688" duration="1128000" />
+      <workItem from="1670231394819" duration="3195000" />
+      <workItem from="1670249228228" duration="2332000" />
+      <workItem from="1670320660459" duration="9055000" />
+      <workItem from="1670404722803" duration="11000" />
+      <workItem from="1670835413221" duration="6223000" />
+      <workItem from="1671015960435" duration="599000" />
+      <workItem from="1671023099241" duration="609000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
